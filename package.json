@@ -1,11 +1,11 @@
 {
   "name": "react-css-blur",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "React Component for blurring an element using CSS filters.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/rubencodes/react-css-blur.git"
+    "url": "https://github.com/LuKaa/react-css-blur.git"
   },
   "keywords": [
     "react",
@@ -15,10 +15,10 @@
     "blur",
     "component"
   ],
-  "author": "Ruben Martinez Jr. <ruben.martinez93@gmail.com> (http://www.ruben.codes/)",
+  "author": "Lukas Girsch",
   "bugs": {
-    "url": "https://github.com/rubencodes/react-css-blur/issues"
+    "url": "https://github.com/LuKaa/react-css-blur/issues"
   },
-  "homepage": "https://github.com/rubencodes/react-css-blur",
+  "homepage": "https://github.com/LuKaa/react-css-blur",
   "license": "MIT"
 }
